@@ -1,0 +1,78 @@
+/* 
+
+
+img{
+height: 200px;
+}
+  
+ 
+
+.image{
+ display: flex;
+ justify-content: space-evenly;
+}
+.picText{
+  font-weight:bold ;
+}
+.line{
+  display: flex;
+  align-items: center;
+}
+
+hr{
+  width: 80%;
+}
+p#one{
+  margin-left: 2.9%;
+  font-size: x-large;
+  font-weight: bolder;
+}
+p#two{
+  margin-right: 2.9%;
+  font-weight: bolder;
+  
+} */
+
+
+/* app2 */
+.App2{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+ width: 80%;
+ margin: auto;
+  background-color: black;
+  color: white;
+  font-size: 40px;
+  font-weight: bolder;
+}
+.background{
+  display: flex;
+  justify-content: space-between;
+  background-color: gray;
+  height: 80px;
+  margin-top: 10px;
+  width: 80%;
+  color: white;
+}
+.text{
+  margin-top: 20px;
+  margin-left: 20px;
+  font-size: xx-large;
+}
+span{
+  margin-top: -10px;
+  font-size: 70px;
+  margin-right: 20px;
+}
+.buttom{
+  background-color: red;
+  color: white;
+  text-align: center;
+  font-size: x-large;
+  width: 25%;
+  height: 50px;
+  padding-top: 10px;
+  font-weight: lighter;
+  
+}
