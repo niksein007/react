@@ -1,0 +1,9 @@
+/* APP3 */
+.App3{
+	display: flex;
+	justify-content: space-evenly;
+  }
+  #headMsg{
+	margin-left: 3.3%;
+	font-size: xx-large;
+  }

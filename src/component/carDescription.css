@@ -1,0 +1,17 @@
+.carName, .bhp{
+    color: dodgerblue;
+    font-weight: bolder;
+    font-size: x-large;
+  }
+
+  .bhp{
+    margin-top: -15px;
+  }
+
+  .specs, .type{
+    color: gray;
+  }
+  
+  .des2{
+    color: rgb(27, 182, 130);
+  }

@@ -1,0 +1,25 @@
+img{
+    width:300px;
+    height: 200px;
+  }
+  .des1, .price{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .strike{
+    text-decoration: line-through;
+  }
+  .save{
+    color: rgb(27, 182, 130);
+    margin-right: 17%;
+  }
+  .salePrice{
+    color: crimson;
+  }
+  .saveValue{
+    color: white;
+    background-color:  rgb(27, 182, 130);
+    padding: 10px 15px;
+  }
