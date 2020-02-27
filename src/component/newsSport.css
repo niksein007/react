@@ -1,0 +1,24 @@
+  .sport{
+    display: flex;
+    background-color: white;
+    margin-bottom: 3px;
+    max-height: 150px;
+    margin-left: 15px;
+    width:650px;
+     
+  }
+  
+   .sport .topic{
+    font-size: 21px;
+    font-weight: bold;
+    margin-top: 5px;
+}
+.sport .sportType{
+  font-size: large;
+  color: gray;
+  margin-top: 60px;
+}
+.sport .text{
+  margin-left: 10px;
+  
+}

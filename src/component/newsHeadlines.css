@@ -1,0 +1,24 @@
+ .headlines{
+    display: flex;
+    background-color: white;
+    margin-bottom: 3px;
+    max-height: 150px;
+    width:650px;
+  
+} 
+
+.headlines .topic{
+    font-size: 21px;
+    font-weight: bold;
+    margin-top: 5px;
+}
+.headlines .country{
+    font-size: large;
+    color: gray;
+    margin-top: 60px;
+
+}
+.headlines .text{
+    margin-left: 10px;
+    
+}

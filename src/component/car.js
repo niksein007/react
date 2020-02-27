@@ -2,7 +2,6 @@ import React from 'react';
 
 import './car.css';
 import Description from './carDescription';
-
 const Cars = (props) => {
 	return (
 		<div>
